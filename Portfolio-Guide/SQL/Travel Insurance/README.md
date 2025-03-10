@@ -1,28 +1,41 @@
 # Travel Insurance Data Analysis
 
-## Project Overview
-Analyzing travel insurance data to understand customer demographics, product preferences, and travel patterns.
+## Dataset Information
 
-## Data Cleaning Steps
-- Standardized destination names
-- Cleaned age data
-- Created age groups
+### Source
+- **Dataset**: Travel Insurance Prediction Data
+- **Platform**: Kaggle
+- **Link**: [Travel Insurance Prediction Data](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
+- **Creator**: Tejashvi
+- **Last Updated**: [Date of dataset]
 
-## Key Findings
-### Senior Traveler Destinations
-- India most popular (28.28%)
-- Singapore second (19.09%)
+### Dataset References
+- [Kaggle Dataset Page](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
+- [Direct Download Link](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data/download)
 
-### Product Popularity (35-44 age group)
-- Cancellation Plan dominates (42.24%)
-- 2-Way Comprehensive Plan second (31.27%)
+### Dataset Characteristics
+- Total Records: 63,326
+- Columns: 
+  - Agency
+  - Agency Type
+  - Distribution Channel
+  - Product Name
+  - Claim
+  - Duration
+  - Destination
+  - Gender
+  - Age
 
-## Setup
-1. Requires SQL Server
-2. Import travel_insurance.csv
-3. Run travel_insurance_analysis.sql
+### Licensing
+- Check the Kaggle dataset page for specific licensing information
+- Ensure compliance with Kaggle's terms of use
 
-## Tools Used
-- SQL Server
-- Data cleaning techniques
-- Analytical queries
+### How to Access
+1. Create a Kaggle account
+2. Navigate to the dataset link
+3. Download the CSV file
+4. Place in your local project directory
+
+## Citation
+If using this dataset for research or presentation, please cite:
+- Tejashvi. (Year). "Travel Insurance Prediction Data". Kaggle.
