@@ -7,7 +7,7 @@
 - **Platform**: Kaggle
 - **Link**: [Travel Insurance Prediction Data](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
 - **Creator**: Tejashvi
-- **Last Updated**: [Date of dataset]
+- **Last Updated**: 2021
 
 ### Dataset References
 - [Kaggle Dataset Page](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
