@@ -11,7 +11,8 @@ Welcome to my data portfolio! This is where I showcase an overview of my project
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🏍️ [Distance For A Chance](Portfolio-Guide/Excel/Distance For A Chance) | Data extraction, data cleaning, data transformation | This project showcases some of my Excel skills
+| 🏍️ [Distance For A Chance](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/Excel/Distance%20For%20A%20Chance/README.md)
+ | Data extraction, data cleaning, data transformation | This project showcases some of my Excel skills
 | 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
 
 ***
