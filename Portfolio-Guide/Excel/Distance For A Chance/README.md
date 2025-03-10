@@ -1,3 +1,5 @@
+<img src="https://github.com/Dympo/dympo/blob/main/images/DSC_58390.jpg?raw=true"
+
 # 🏍️ Distance For A Chance Project
 
 ## Objective
