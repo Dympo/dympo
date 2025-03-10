@@ -21,6 +21,8 @@ The goal of this project is to transform the raw data into a structured format s
 
 This sheet contains all the raw data obtained from the old website.
 
+![DFAC Image](https://github.com/Dympo/dympo/blob/main/images/DFAC_1.png?raw=true)
+
 ### Sheet 2 : Separating Data
 
 This sheet is focused on extracting structured data from raw text using Excel formulas. It breaks down a string containing city names, countries, and distances into separate columns. The formulas isolate key elements such as departure location, destination, country names, and distances by leveraging MID, FIND, and LEFT functions. This allows for easier analysis and visualization of the data.
