@@ -27,14 +27,22 @@ This sheet contains all the raw data obtained from the old website.
 
 This sheet is focused on extracting structured data from raw text using Excel formulas. It breaks down a string containing city names, countries, and distances into separate columns. The formulas isolate key elements such as departure location, destination, country names, and distances by leveraging MID, FIND, and LEFT functions. This allows for easier analysis and visualization of the data.
 
+![DFAC Image](https://github.com/Dympo/dympo/blob/main/images/DFAC_2.png?raw=true)
+
 ### Sheet 3 : Sorting by Date
 
 This section focuses on converting a text-based date into a proper date format (DD-MM-YY) to allow for chronological sorting. The formula extracts the day, month, and year from the original string using RIGHT, MID, and LEFT functions and restructures them into a valid date format that Excel recognizes.
+
+![DFAC Image](https://github.com/Dympo/dympo/blob/main/images/DFAC_3.png?raw=true)
 
 ### Sheet 4 : Cleaning Up
 
 This section organizes data by sorting it, renaming the "Date New" column to "Date," and applying conditional formatting to highlight rows with "[" or "]" in column C, signaling exclusion from distance analysis. KMS values are also converted to a numeric format for proper calculations.
 
+![DFAC Image](https://github.com/Dympo/dympo/blob/main/images/DFAC_4.png?raw=true)
+
 ### Sheet 5 : Final
 
 Same as Sheet 4 but clean without the notes. Ready to be exported if needed.
+
+![DFAC Image](https://github.com/Dympo/dympo/blob/main/images/DFAC_5.png?raw=true)
