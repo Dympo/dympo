@@ -1,4 +1,4 @@
-<img src="https://github.com/Dympo/dympo/blob/main/banner_new.png?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="100%" />
+<img src="https://github.com/Dympo/dympo/blob/main/images/banner_new.png?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="100%" />
 
 ## Introduction 👋
 
