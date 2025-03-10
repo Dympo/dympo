@@ -3,7 +3,6 @@
 ## Introduction 👋
 
 Hi, I'm Florian!
-
 An administrative professional transitioning into data analytics.
 
 💡 Google Data Analytics certified.  
@@ -14,5 +13,6 @@ An administrative professional transitioning into data analytics.
 
 🚀 Interested in data projects and analytics-driven decision-making.  
 
-🔎 Looking to connect with others in data analytics and explore work opportunities!
+🔎 Looking to connect with others in data analytics and explore work opportunities!  
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/florian-dumas-361a37b7/)
