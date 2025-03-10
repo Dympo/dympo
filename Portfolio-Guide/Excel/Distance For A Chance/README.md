@@ -1,4 +1,7 @@
-<img src="https://github.com/Dympo/dympo/blob/main/images/DSC_58390.jpg?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="40%" />
+<p align="center">
+  <img src="https://github.com/Dympo/dympo/blob/main/images/DSC_58390.jpg?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="40%" style="margin-right: 10px;" />
+  <img src="https://github.com/Dympo/dympo/blob/main/images/DSC_4211.JPG?raw=true" alt="Second Image" width="40%" />
+</p>
 
 # 🏍️ Distance For A Chance Project
 
