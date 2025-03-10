@@ -5,6 +5,9 @@
 
 # 🏍️ Distance For A Chance Project
 
+Link to the [EXCEL FILE](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/Excel/Distance%20For%20A%20Chance/DFAC%20WorkBook.xlsx)
+
+
 ## Objective
 
 This project is used to showcase my Excel skills : extracting information from raw data, cleaning data, and organizing with some conditional formatting.
