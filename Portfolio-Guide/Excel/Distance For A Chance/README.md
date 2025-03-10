@@ -17,19 +17,22 @@ The goal of this project is to transform the raw data into a structured format s
 
 ## Sheet by Sheet 
 
-# Sheet 1 : Raw Info
+### Sheet 1 : Raw Info
 
-This Sheet contains all the raw data obtained from the old website.
+This sheet contains all the raw data obtained from the old website.
 
-# Sheet 2 : Separating Data
+### Sheet 2 : Separating Data
 
-Here, we use formulas (MID, FIND) to try and separate the raw data into categories						
-Formula in Column B extracts the text before the first space.		
-"=LEFT(A10,FIND(" ",A10)-1)"				
-Formula in Column C extracts the text between the first space and the opening parenthesis, excluding the space and the characters just before the parenthesis.		"=MID(A10,FIND(" ",A10)+1,FIND("(",A10)-FIND(" ",A10)-2)"				
-Formula in Column D extracts the text between the parentheses, excluding the parentheses themselves.		
-"=MID(A10,FIND("(",A10)+1,FIND(")",A10)-FIND("(",A10)-1)"				
-Formula in Column E extracts the text between the dash (–) and the first opening parenthesis, adjusting to exclude the dash and a couple of characters near it.		"=MID(A10,FIND("–",A10)+2,FIND("(",A10,FIND("–",A10))-FIND("–",A10)-3)"				
-Formula in Column F extracts the text between the parentheses that are after the dash (–) excluding the parentheses themselves.		"=MID(A10,FIND("(",A10,FIND("–",A10))+1,FIND(")",A10,FIND("(",A10,FIND("–",A10)))-FIND("(",A10,FIND("–",A10))-1)"				
-Formula in Column G extracts the text between the colon (:) and the "kms", excluding the colon and the "kms" part.		
-"=MID(A10,FIND(":",A10)+2,FIND("kms",A10)-FIND(":",A10)-3)				
+This sheet is focused on extracting structured data from raw text using Excel formulas. It breaks down a string containing city names, countries, and distances into separate columns. The formulas isolate key elements such as departure location, destination, country names, and distances by leveraging MID, FIND, and LEFT functions. This allows for easier analysis and visualization of the data.
+
+### Sheet 3 : Sorting by Date
+
+This section focuses on converting a text-based date into a proper date format (DD-MM-YY) to allow for chronological sorting. The formula extracts the day, month, and year from the original string using RIGHT, MID, and LEFT functions and restructures them into a valid date format that Excel recognizes.
+
+### Sheet 4 : Cleaning Up
+
+This section organizes data by sorting it, renaming the "Date New" column to "Date," and applying conditional formatting to highlight rows with "[" or "]" in column C, signaling exclusion from distance analysis. KMS values are also converted to a numeric format for proper calculations.
+
+### Sheet 5 : Final
+
+Same as Sheet 4 but clean without the notes. Ready to be exported if needed.
