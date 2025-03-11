@@ -1,6 +1,6 @@
 # Travel Insurance Data Analysis 🌍✈️
 
-In this SQL work, I explore data from a Travel Insurance company, clean up the data and fix some descrepencies before answering 3 different questions related to the business :   
+In this SQL project, I explore a Travel Insurance dataset, clean up data inconsistencies, and perform analysis to answer three key business-related questions. 
 
             . Which countries do Senior travelers prefer overall?  
 
