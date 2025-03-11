@@ -1,4 +1,4 @@
-<img src="https://github.com/Dympo/dympo/blob/main/images/banner_new.png?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="100%" />
+<img src="https://github.com/Dympo/dympo/blob/main/images/banner.png?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="100%" />
 
 ## Introduction 👋
 
@@ -13,6 +13,8 @@ An administrative professional transitioning into data analytics.
 
 🚀 Interested in data projects and analytics-driven decision-making.  
 
-🔎 Looking to connect with others in data analytics and explore work opportunities!  
+🔎 Looking to connect with others in data analytics and explore work opportunities! 
+
+Come have a look at the projects I have worked on in my [Portfolio](https://github.com/Dympo/dympo/tree/main/Portfolio-Guide)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/florian-dumas-361a37b7/)
