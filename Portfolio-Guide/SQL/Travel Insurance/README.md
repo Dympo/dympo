@@ -7,7 +7,6 @@ Link to the [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/
 ### Source
 - **Dataset**: Travel Insurance Prediction Data
 - **Platform**: Kaggle
-- **Link**: [Travel Insurance Prediction Data](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
 - **Creator**: Tejashvi
 - **Last Updated**: 2021
 
