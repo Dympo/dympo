@@ -18,7 +18,7 @@ Welcome to my data portfolio! This is where I showcase an overview of my project
 
 # SQL
 
-| Project Link | Area | Project Description | Libraries |    
+| Project Link | Area | Project Description |    
 |---|---|---|---|
 | ✈️ [Travel Insurance](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/SQL/Travel%20Insurance/README.md) | SQL data extraction, data cleaning, data transformation | Analyzing travel insurance data using advanced SQL techniques |
 
