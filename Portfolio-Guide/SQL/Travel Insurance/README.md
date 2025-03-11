@@ -64,6 +64,8 @@ Link to my [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/S
 - Focus on comprehensive and cancellation plans for 35-44 age group
 - Develop age-specific travel insurance packages
 
+## Insight Visualization with Tableau
+
   <p align="center">
   <img src="https://github.com/Dympo/dympo/blob/main/images/Visualization.png?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="100%"/>
   
