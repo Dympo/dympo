@@ -17,4 +17,4 @@ An administrative professional transitioning into data analytics.
 
 Come have a look at the projects I have worked on in my 💼[Portfolio](https://github.com/Dympo/dympo/tree/main/Portfolio-Guide)💼
 
-Connect with me on 🌐[LinkedIn](https://www.linkedin.com/in/florian-dumas-361a37b7/)
+Connect with me on 🌐[LinkedIn](https://www.linkedin.com/in/florian-dumas-361a37b7/)🌐
