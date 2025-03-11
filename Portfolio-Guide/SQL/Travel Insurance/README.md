@@ -1,5 +1,9 @@
 # Travel Insurance Data Analysis 🌍✈️
 
+In this SQL work, I explore data from a Travel Insurance company, clean up the data and fix some descrepencies before answering 3 different questions related to the business : 
+. Which countries do Senior travelers prefer overall?
+. Which product is most popular for the 35-44 age group?
+. What is the average duration of travels by age group?
 Link to my [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/SQL/Travel%20Insurance/Travel_Insurance_analysis.sql)
 
 ## Dataset Information 📊
@@ -27,19 +31,11 @@ Link to my [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/S
   - Gender
   - Age
 
-### Licensing 📜
-- Check the Kaggle dataset page for specific licensing information
-- Ensure compliance with Kaggle's terms of use
-
 ### How to Access 🔓
 1. Create a Kaggle account
 2. Navigate to the dataset link
 3. Download the CSV file
 4. Place in your local project directory
-
-## Citation 📝
-If using this dataset for research or presentation, please cite:
-- Tejashvi. (Year). "Travel Insurance Prediction Data". Kaggle.
 
 ## Key Insights 🔍
 
