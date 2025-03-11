@@ -5,15 +5,15 @@
 Hi, I'm Florian!
 An administrative professional transitioning into data analytics.
 
-💡 Google Data Analytics certified.  
+- Google Data Analytics certified.  
 
-📊 Experienced in Excel, SQL, and data visualization (Tableau, learning PowerBi) - Still learning every day!  
+- Experienced in Excel, SQL, and data visualization (Tableau, learning PowerBi) - Still learning every day!  
 
-🌍 International work experience across Switzerland, New Zealand, Australia, Mexico and the U.S.  
+- International work experience across Switzerland, New Zealand, Australia, Mexico and the U.S.  
 
-🚀 Interested in data projects and analytics-driven decision-making.  
+- Interested in data projects and analytics-driven decision-making.  
 
-🔎 Looking to connect with others in data analytics and explore work opportunities! 
+- Looking to connect with others in data analytics and explore work opportunities! 
 
 Come have a look at the projects I have worked on in my 💼[Portfolio](https://github.com/Dympo/dympo/tree/main/Portfolio-Guide)💼
 
