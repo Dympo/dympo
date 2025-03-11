@@ -1,6 +1,6 @@
 # Travel Insurance Data Analysis 🌍✈️
 
-Link to the [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/SQL/Travel%20Insurance/Travel_Insurance_analysis.sql)
+Link to my [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/SQL/Travel%20Insurance/Travel_Insurance_analysis.sql)
 
 ## Dataset Information 📊
 
