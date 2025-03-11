@@ -1,9 +1,12 @@
 # Travel Insurance Data Analysis 🌍✈️
 
 In this SQL work, I explore data from a Travel Insurance company, clean up the data and fix some descrepencies before answering 3 different questions related to the business : 
-. Which countries do Senior travelers prefer overall?
-. Which product is most popular for the 35-44 age group?
-. What is the average duration of travels by age group?
+. Which countries do Senior travelers prefer overall?  
+
+. Which product is most popular for the 35-44 age group?  
+
+. What is the average duration of travels by age group?  
+
 Link to my [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/SQL/Travel%20Insurance/Travel_Insurance_analysis.sql)
 
 ## Dataset Information 📊
