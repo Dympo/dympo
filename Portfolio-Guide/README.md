@@ -27,4 +27,4 @@ Welcome to my data portfolio! This is where I showcase an overview of my project
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| ✈️ [Travel Insurance](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Visualization of the insight we have acquired through the Travel Insurance project in SQL | [Dashboard](https://public.tableau.com/views/TravelInsuranceViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) |
