@@ -67,5 +67,5 @@ Link to my [SQL File](https://github.com/Dympo/dympo/blob/main/Portfolio-Guide/S
 ## Insight Visualization with Tableau 📈
 
   <p align="center">
-  <img src="https://github.com/Dympo/dympo/blob/main/images/Visualization.png?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="100%"/>
-  
+  <img src="https://github.com/Dympo/dympo/blob/main/images/Dashboard%201.png?raw=true" alt="Florian Dumas - Data Analyst | SQL Developer" width="100%"/>
+
