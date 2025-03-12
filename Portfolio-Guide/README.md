@@ -27,4 +27,4 @@ Welcome to my data portfolio! This is where I showcase an overview of my project
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 📈 [Travel Insurance](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Visualization of the insight we have acquired through the Travel Insurance project in SQL | [Dashboard](https://public.tableau.com/views/TravelInsuranceViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+| 📈 [Travel Insurance](https://github.com/Dympo/dympo/tree/main/Portfolio-Guide/Tableau%20/Travel%20Insurance%20) | Visualization of the insight we have acquired through the Travel Insurance project in SQL | [Dashboard](https://public.tableau.com/views/TravelInsuranceViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
