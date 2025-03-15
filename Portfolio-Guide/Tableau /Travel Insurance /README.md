@@ -20,7 +20,7 @@ The following visualizations provide insights into travel insurance trends based
 
 ## Visualizations
 
-![Dashboard Image](https://github.com/Dympo/dympo/blob/main/images/Dashboard%201.png?raw=true)
+![Dashboard Image](https://github.com/Dympo/dympo/blob/main/images/Dashboard%201.PNG?raw=true)
 
 ## Tools Used
 
