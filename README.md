@@ -17,7 +17,7 @@ An administrative professional transitioning into data analytics.
 
 ## Portfolio 💼
 
-Come have a look at the projects I have worked on in my 💼[Portfolio](https://github.com/Dympo/dympo/tree/main/Portfolio-Guide)💼
+Come have a look at the projects I have worked on in the [Portfolio](https://github.com/Dympo/dympo/tree/main/Portfolio-Guide) section of my Github.
 
 ## Let's connect!🌐
 
