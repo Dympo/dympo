@@ -20,6 +20,6 @@ Come have a look at the projects I have worked on in my 💼[Portfolio](https://
 Connect with me on LinkedIn
 
 <a href="https://www.linkedin.com/in/florian-dumas-361a37b7/">
-    <img src="https://github.com/Dympo/dympo/blob/main/images/linkedin.png?raw=true" width="80">
+    <img src="https://github.com/Dympo/dympo/blob/main/images/linkedin.png?raw=true" width="200">
 </a>
 
