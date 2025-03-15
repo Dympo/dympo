@@ -19,5 +19,7 @@ Come have a look at the projects I have worked on in my 💼[Portfolio](https://
 
 Connect with me on LinkedIn
 
-[![LinkedIn](https://github.com/Dympo/dympo/blob/main/images/linkedin.png?raw=true)](https://www.linkedin.com/in/florian-dumas-361a37b7/)
+<a href="https://www.linkedin.com/in/florian-dumas-361a37b7/">
+    <img src="https://github.com/Dympo/dympo/blob/main/images/linkedin.png?raw=true" width="80">
+</a>
 
